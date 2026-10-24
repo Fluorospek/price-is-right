@@ -1,0 +1,8 @@
+python-dotenv
+huggingface-hub
+datasets
+matplotlib
+tqdm
+numpy
+pydantic
+ipywidgets
