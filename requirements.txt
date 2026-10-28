@@ -8,3 +8,9 @@ pydantic
 ipywidgets
 litellm
 Groq
+pandas
+numpy
+scikit-learn
+plotly
+nbformat
+xgboost
